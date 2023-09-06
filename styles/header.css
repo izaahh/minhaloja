@@ -30,12 +30,12 @@ display:block;
 }
 .lista-menu__titulo, .lista-menu__item{
   padding: 1em;
-  background-color: #fa8072;   }
+  background-color: #ea72fa;   }
 
-.lista-menu__titulo{color:#006400;}
+.lista-menu__titulo{color:#580064;}
 
 .lista-menu__link{
-  background-image: linear-gradient(#e93c11,#1f3e1f);
+  background-image: linear-gradient(#e9118fcb,#7e0359b0);
   -webkit-background-clip: text;
   -webkit-text-fill-color:transparent;
   background-clip: text;
