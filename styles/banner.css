@@ -3,3 +3,8 @@
         color: white;
         text-align: center;
     }
+
+.banner__titulo{
+    font-size:50 px;
+    font-family: cursive;
+}
