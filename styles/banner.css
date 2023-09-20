@@ -8,3 +8,8 @@
     font-size:50 px;
     font-family: cursive;
 }
+.banner__texto{
+    font-size: 18px;
+    font-weight: 900;
+    margin: 1em 0;
+}
