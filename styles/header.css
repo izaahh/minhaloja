@@ -35,7 +35,7 @@ display:block;
 .lista-menu__titulo{color:#936599;}
 
 .lista-menu__link{
-  background-image: linear-gradient(#4d1033cb,#e700a2b0);
+  background-image: linear-gradient(#4d1033cb,#3b072cb0);
   -webkit-background-clip: text;
   -webkit-text-fill-color:transparent;
   background-clip: text;
