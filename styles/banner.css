@@ -6,7 +6,7 @@
 
 .banner__titulo{
     font-size:50px;
-    font-family: fantasy;
+    font-family: monospace;
 }
 .banner__texto{
     font-size: 18px;
