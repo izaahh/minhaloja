@@ -30,7 +30,7 @@ display:block;
 }
 .lista-menu__titulo, .lista-menu__item{
   padding: 1em;
-  background-color: #e48df0;   }
+  background-color:rgb(136, 23, 23);   }
 
 .lista-menu__titulo{color:#936599;}
 
