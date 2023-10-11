@@ -32,10 +32,10 @@ display:block;
   padding: 1em;
   background-color:rgb(136, 23, 23);   }
 
-.lista-menu__titulo{color:#936599;}
+.lista-menu__titulo{color:#ffffff;}
 
 .lista-menu__link{
-  background-image: linear-gradient(#4d1033cb,#3b072cb0);
+  background-image: linear-gradient(#ffffffcb,#bebebeb0);
   -webkit-background-clip: text;
   -webkit-text-fill-color:transparent;
   background-clip: text;
